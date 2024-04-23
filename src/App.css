@@ -1444,3 +1444,11 @@ margin-left: 5%;
 }
 
 }
+
+
+@media (max-width:600px) {
+  #loader h1{
+      font-size: 9vw;
+    
+  }
+}

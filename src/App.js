@@ -38,7 +38,6 @@ function App() {
         var loader = document.querySelector("#loader")
         setTimeout(function () {
             loader.style.top = "-100%";
-            console.log("done");
         }, 4200)
       }
       loaderAnimation();
